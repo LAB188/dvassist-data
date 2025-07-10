@@ -1,0 +1,557 @@
+[
+ {
+   "A": "Aberystwyth Justice Centre"
+ },
+ {
+   "A": "Aldershot Justice Centre"
+ },
+ {
+   "A": "Barnet Civil and Family Courts Centre"
+ },
+ {
+   "A": "Barnsley Law Courts"
+ },
+ {
+   "A": "Barnstaple Magistrates', County and Family Court"
+ },
+ {
+   "A": "Barrow-in-Furness County Court and Family Court"
+ },
+ {
+   "A": "Basildon Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Basingstoke County Court and Family Court"
+ },
+ {
+   "A": "Bath Law Courts (Civil, Family and Magistrates)"
+ },
+ {
+   "A": "Bedford and Mid Beds Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Bedford County Court and Family Court"
+ },
+ {
+   "A": "Beverley Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Birkenhead County Court and Family Court"
+ },
+ {
+   "A": "Birmingham Civil and Family Justice Centre"
+ },
+ {
+   "A": "Blackburn County Court and Family Court"
+ },
+ {
+   "A": "Blackpool Family Court"
+ },
+ {
+   "A": "Blackwood Civil and Family Court"
+ },
+ {
+   "A": "Bodmin County Court and Family Court"
+ },
+ {
+   "A": "Bournemouth and Poole County Court and Family Court"
+ },
+ {
+   "A": "Bradford and Keighley Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Bradford Combined Court Centre"
+ },
+ {
+   "A": "Brentford County and Family Court"
+ },
+ {
+   "A": "Bridlington Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Brighton County and Family Court"
+ },
+ {
+   "A": "Brighton-Hearing Centre"
+ },
+ {
+   "A": "Bristol Civil and Family Justice Centre"
+ },
+ {
+   "A": "Bromley County Court and Family Court"
+ },
+ {
+   "A": "Bury St Edmunds County Court and Family Court"
+ },
+ {
+   "A": "Bury St Edmunds County Court and Family Court"
+ },
+ {
+   "A": "Caernarfon Justice Centre"
+ },
+ {
+   "A": "Caernarfon Justice Centre"
+ },
+ {
+   "A": "Cambridge County Court and Family Court"
+ },
+ {
+   "A": "Canterbury Combined Court Centre"
+ },
+ {
+   "A": "Cardiff Civil and Family Justice Centre"
+ },
+ {
+   "A": "Carlisle Combined Court"
+ },
+ {
+   "A": "Carlisle Magistrates' Court"
+ },
+ {
+   "A": "Carmarthen County Court and Family Court"
+ },
+ {
+   "A": "Central Family Court"
+ },
+ {
+   "A": "Chelmsford County and Family Court"
+ },
+ {
+   "A": "Chelmsford Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Chester Civil and Family Justice Centre"
+ },
+ {
+   "A": "Chesterfield County Court"
+ },
+ {
+   "A": "Clerkenwell & Shoreditch county and family court"
+ },
+ {
+   "A": "Colchester Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Coventry Combined Court Centre"
+ },
+ {
+   "A": "Coventry Magistrates' Court"
+ },
+ {
+   "A": "Crewe County Court and Family Court"
+ },
+ {
+   "A": "Croydon County Court and Family Court"
+ },
+ {
+   "A": "Darlington County Court and Family Court"
+ },
+ {
+   "A": "Darlington Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Dartford County Court and Family Court"
+ },
+ {
+   "A": "Derby Combined Court Centre"
+ },
+ {
+   "A": "Doncaster Justice Centre North"
+ },
+ {
+   "A": "Dudley County Court and Family Court"
+ },
+ {
+   "A": "Durham County Court and Family Court"
+ },
+ {
+   "A": "East London Family Court"
+ },
+ {
+   "A": "Edmonton County Court and Family Court"
+ },
+ {
+   "A": "Enfield Social Security and Child Support Tribunal"
+ },
+ {
+   "A": "Exeter Combined Court Centre"
+ },
+ {
+   "A": "Family Division"
+ },
+ {
+   "A": "Gateshead County Court and Family Court"
+ },
+ {
+   "A": "Gateshead Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Gloucester and Cheltenham County and Family Court"
+ },
+ {
+   "A": "Great Grimsby Combined Court Centre"
+ },
+ {
+   "A": "Great Yarmouth Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Grimsby Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Guildford County Court and Family Court"
+ },
+ {
+   "A": "Guildford Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Harrogate Justice Centre"
+ },
+ {
+   "A": "Hastings County Court and Family Court"
+ },
+ {
+   "A": "Havant Justice Centre"
+ },
+ {
+   "A": "Haverfordwest County Court and Family Court"
+ },
+ {
+   "A": "Hereford County Court and Family Court"
+ },
+ {
+   "A": "Hertford County Court and Family Court"
+ },
+ {
+   "A": "High Wycombe Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Horsham County Court and Family Court"
+ },
+ {
+   "A": "Huddersfield County Court and Family Court"
+ },
+ {
+   "A": "Hull and Holderness Magistrates' Court and Hearing Centre"
+ },
+ {
+   "A": "Ipswich County Court and Family Hearing Centre"
+ },
+ {
+   "A": "Ipswich Magistrates Court (Domestic Violence)"
+ },
+ {
+   "A": "Isle of Wight Combined Court"
+ },
+ {
+   "A": "King's Lynn Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Kingston upon Thames County Court and Family Court"
+ },
+ {
+   "A": "Kingston-upon-Hull Combined Court Centre"
+ },
+ {
+   "A": "Kingston-upon-Hull Magistrates Court and Hearing Centre"
+ },
+ {
+   "A": "Kirklees (Huddersfield) Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Lancaster County Court and Family Court"
+ },
+ {
+   "A": "Leeds Combined Court Centre"
+ },
+ {
+   "A": "Leeds Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Leicester County Court and Family Court"
+ },
+ {
+   "A": "Leyland Family Court"
+ },
+ {
+   "A": "Lincoln County Court and Family Court"
+ },
+ {
+   "A": "Lincoln Magistrates' Court"
+ },
+ {
+   "A": "Liverpool Civil and Family Court"
+ },
+ {
+   "A": "Llandrindod Wells Magistrates' and Family Court"
+ },
+ {
+   "A": "Llanelli Law Courts"
+ },
+ {
+   "A": "Luton and South Bedfordshire Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Luton County Court and Family Court"
+ },
+ {
+   "A": "Maidstone Combined Court Centre"
+ },
+ {
+   "A": "Manchester Civil Justice Centre (Civil and Family Courts)"
+ },
+ {
+   "A": "Mansfield Magistrates' and County Court"
+ },
+ {
+   "A": "Medway County Court and Family Court"
+ },
+ {
+   "A": "Medway Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Merthyr Tydfil Combined Court Centre"
+ },
+ {
+   "A": "Milton Keynes County Court and Family Court"
+ },
+ {
+   "A": "Milton Keynes Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Mold Justice Centre"
+ },
+ {
+   "A": "Newcastle upon Tyne Combined Court Centre"
+ },
+ {
+   "A": "Newport (South Wales) County Court and Family Court"
+ },
+ {
+   "A": "Newport (South Wales) County Court and Family Court"
+ },
+ {
+   "A": "Newton Aycliffe Magistrates' Court"
+ },
+ {
+   "A": "North Shields County Court and Family Court"
+ },
+ {
+   "A": "Northampton Crown, County and Family Court"
+ },
+ {
+   "A": "Northampton Magistrates' Court"
+ },
+ {
+   "A": "Norwich Combined Court Centre"
+ },
+ {
+   "A": "Norwich Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Nottingham County Court and Family Court"
+ },
+ {
+   "A": "Oxford and Southern Oxfordshire Magistrates' Court"
+ },
+ {
+   "A": "Oxford Combined Court Centre"
+ },
+ {
+   "A": "Peterborough Combined Court Centre"
+ },
+ {
+   "A": "Peterborough Magistrates Court (Domestic violence)"
+ },
+ {
+   "A": "Plymouth Combined Court"
+ },
+ {
+   "A": "Plymouth Magistrates' Court"
+ },
+ {
+   "A": "Pontypridd County Court and Family Court"
+ },
+ {
+   "A": "Port Talbot Justice Centre"
+ },
+ {
+   "A": "Portsmouth Combined Court Centre"
+ },
+ {
+   "A": "Prestatyn Justice Centre"
+ },
+ {
+   "A": "Preston Crown Court and Family Court (Sessions House)"
+ },
+ {
+   "A": "Reading County Court and Family Court"
+ },
+ {
+   "A": "Reading Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Redditch Magistrates' Court (domestic violence)"
+ },
+ {
+   "A": "Reedley Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Romford County Court and Family Court"
+ },
+ {
+   "A": "Salisbury Law Courts"
+ },
+ {
+   "A": "Scarborough Justice Centre"
+ },
+ {
+   "A": "Sevenoaks Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Sheffield Combined Court Centre"
+ },
+ {
+   "A": "Sheffield Family Hearing Centre"
+ },
+ {
+   "A": "Skipton County Court and Family Court"
+ },
+ {
+   "A": "Slough County Court and Family Court"
+ },
+ {
+   "A": "South Shields County Court and Family Court"
+ },
+ {
+   "A": "South Tyneside Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Southampton Combined Court Centre"
+ },
+ {
+   "A": "Southend County Court and Family Court"
+ },
+ {
+   "A": "Southend Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Southend Magistrates' Court and Family Court"
+ },
+ {
+   "A": "St Albans Magistrates' Court (Domestic violence)"
+ },
+ {
+   "A": "St Helen's County Court and Family Court"
+ },
+ {
+   "A": "Stafford Combined Court Centre"
+ },
+ {
+   "A": "Staines County Court and Family Court"
+ },
+ {
+   "A": "Staines Magistrates' Court and Family Court"
+ },
+ {
+   "A": "Stockport County Court and Family Court"
+ },
+ {
+   "A": "Stockport Magistrates' Court"
+ },
+ {
+   "A": "Stoke-on-Trent Combined Court"
+ },
+ {
+   "A": "Sunderland County, Family, Magistrates' and Tribunal Hearings"
+ },
+ {
+   "A": "Sutton Social Security and Child Support Tribunal"
+ },
+ {
+   "A": "Swansea Civil Justice Centre"
+ },
+ {
+   "A": "Swindon Combined Court"
+ },
+ {
+   "A": "Taunton Crown, County and Family Court"
+ },
+ {
+   "A": "Teesside Combined Court Centre / (Middlesbrough County Court)"
+ },
+ {
+   "A": "Teesside Magistrates Court"
+ },
+ {
+   "A": "Telford County Court and Family Court"
+ },
+ {
+   "A": "Thanet County Court and Family Court"
+ },
+ {
+   "A": "Torquay and Newton Abbot County Court and Family Court"
+ },
+ {
+   "A": "Truro County Court and Family Court"
+ },
+ {
+   "A": "Uxbridge County Court and Family Court"
+ },
+ {
+   "A": "Wakefield Civil and Family Justice Centre"
+ },
+ {
+   "A": "Walsall County and Family Court"
+ },
+ {
+   "A": "Wandsworth County Court and Family Court"
+ },
+ {
+   "A": "Watford County Court and Family Court"
+ },
+ {
+   "A": "Welshpool Magistrates' Court"
+ },
+ {
+   "A": "West Cumbria Courthouse"
+ },
+ {
+   "A": "West London Family Court"
+ },
+ {
+   "A": "Weston Super-Mare County Court and Family Court"
+ },
+ {
+   "A": "Weymouth Combined Court"
+ },
+ {
+   "A": "Wigan County Court and Family Court"
+ },
+ {
+   "A": "Willesden County Court and Family Court"
+ },
+ {
+   "A": "Winchester Combined Court Centre"
+ },
+ {
+   "A": "Wolverhampton Combined Court Centre"
+ },
+ {
+   "A": "Worcester Combined Court"
+ },
+ {
+   "A": "Worthing County Court and Family Court"
+ },
+ {
+   "A": "Wrexham County and Family Court"
+ },
+ {
+   "A": "Yeovil County, Family and Magistrates' Court"
+ },
+ {
+   "A": "York County Court and Family Court"
+ },
+ {
+   "A": "York Magistrates' Court and Family Court"
+ }
+]
